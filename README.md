@@ -1,2 +1,3 @@
 # hello-world
-test github
+
+Testing GitHub out for future use in projects
