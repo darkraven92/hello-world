@@ -1,3 +1,3 @@
 # hello-world
 
-Testing GitHUb out for future use in projects
+Testing GitHub out for future use in projects
